@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\NewDatabaseCommunication\SelectingRecordInMultipleTAble\bin\Debug\SelectingRecordInMultipleTAble.exe.config
+C:\c#b22\add project\basic\NewDatabaseCommunication\SelectingRecordInMultipleTAble\bin\Debug\SelectingRecordInMultipleTAble.exe
+C:\c#b22\add project\basic\NewDatabaseCommunication\SelectingRecordInMultipleTAble\bin\Debug\SelectingRecordInMultipleTAble.pdb
+C:\c#b22\add project\basic\NewDatabaseCommunication\SelectingRecordInMultipleTAble\obj\Debug\SelectingRecordInMultipleTAble.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\NewDatabaseCommunication\SelectingRecordInMultipleTAble\obj\Debug\SelectingRecordInMultipleTAble.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\NewDatabaseCommunication\SelectingRecordInMultipleTAble\obj\Debug\SelectingRecordInMultipleTAble.exe
+C:\c#b22\add project\basic\NewDatabaseCommunication\SelectingRecordInMultipleTAble\obj\Debug\SelectingRecordInMultipleTAble.pdb

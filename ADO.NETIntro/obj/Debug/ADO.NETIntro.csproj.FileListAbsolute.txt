@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\NewDatabaseCommunication\ADO.NETIntro\bin\Debug\ADO.NETIntro.exe.config
+C:\c#b22\add project\basic\NewDatabaseCommunication\ADO.NETIntro\bin\Debug\ADO.NETIntro.exe
+C:\c#b22\add project\basic\NewDatabaseCommunication\ADO.NETIntro\bin\Debug\ADO.NETIntro.pdb
+C:\c#b22\add project\basic\NewDatabaseCommunication\ADO.NETIntro\obj\Debug\ADO.NETIntro.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\NewDatabaseCommunication\ADO.NETIntro\obj\Debug\ADO.NETIntro.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\NewDatabaseCommunication\ADO.NETIntro\obj\Debug\ADO.NETIntro.exe
+C:\c#b22\add project\basic\NewDatabaseCommunication\ADO.NETIntro\obj\Debug\ADO.NETIntro.pdb

@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\NewDatabaseCommunication\Select-Name-By-Its-ID\bin\Debug\Select-Name-By-Its-ID.exe.config
+C:\c#b22\add project\basic\NewDatabaseCommunication\Select-Name-By-Its-ID\bin\Debug\Select-Name-By-Its-ID.exe
+C:\c#b22\add project\basic\NewDatabaseCommunication\Select-Name-By-Its-ID\bin\Debug\Select-Name-By-Its-ID.pdb
+C:\c#b22\add project\basic\NewDatabaseCommunication\Select-Name-By-Its-ID\obj\Debug\Select-Name-By-Its-ID.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\NewDatabaseCommunication\Select-Name-By-Its-ID\obj\Debug\Select-Name-By-Its-ID.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\NewDatabaseCommunication\Select-Name-By-Its-ID\obj\Debug\Select-Name-By-Its-ID.exe
+C:\c#b22\add project\basic\NewDatabaseCommunication\Select-Name-By-Its-ID\obj\Debug\Select-Name-By-Its-ID.pdb

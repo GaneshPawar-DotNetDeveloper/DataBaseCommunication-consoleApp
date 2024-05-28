@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\NewDatabaseCommunication\SQL-Injection-Attack\obj\Debug\SQL-Injection-Attack.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\NewDatabaseCommunication\SQL-Injection-Attack\obj\Debug\SQL-Injection-Attack.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\NewDatabaseCommunication\SQL-Injection-Attack\bin\Debug\SQL-Injection-Attack.exe.config
+C:\c#b22\add project\basic\NewDatabaseCommunication\SQL-Injection-Attack\bin\Debug\SQL-Injection-Attack.exe
+C:\c#b22\add project\basic\NewDatabaseCommunication\SQL-Injection-Attack\bin\Debug\SQL-Injection-Attack.pdb
+C:\c#b22\add project\basic\NewDatabaseCommunication\SQL-Injection-Attack\obj\Debug\SQL-Injection-Attack.exe
+C:\c#b22\add project\basic\NewDatabaseCommunication\SQL-Injection-Attack\obj\Debug\SQL-Injection-Attack.pdb

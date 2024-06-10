@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\DataBaseCommunication\cofeeshopeApplication\bin\Debug\cofeeshopeApplication.exe.config
+C:\c#b22\add project\basic\DataBaseCommunication\cofeeshopeApplication\bin\Debug\cofeeshopeApplication.exe
+C:\c#b22\add project\basic\DataBaseCommunication\cofeeshopeApplication\bin\Debug\cofeeshopeApplication.pdb
+C:\c#b22\add project\basic\DataBaseCommunication\cofeeshopeApplication\obj\Debug\cofeeshopeApplication.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\DataBaseCommunication\cofeeshopeApplication\obj\Debug\cofeeshopeApplication.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\DataBaseCommunication\cofeeshopeApplication\obj\Debug\cofeeshopeApplication.exe
+C:\c#b22\add project\basic\DataBaseCommunication\cofeeshopeApplication\obj\Debug\cofeeshopeApplication.pdb
